@@ -1,0 +1,2 @@
+# all the files and folders that you don't want to add to git for security reasons
+.env
